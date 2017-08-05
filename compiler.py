@@ -8,9 +8,9 @@
 # SETTINGS:
 # Settings are provided in a one line property format: "key=val;key=val;..."
 # Settings required to run:
-# - x, y, z: the position of the most significant bit of the first data element
-# - dir: the direction the torches should face. Torches of following lines will be placed behind, torches from the same line to the right.
-# - height: Split output into multiple commands setting at most 'height' blocks at once. 
+# - x, y, z: the position of the most significant bit of the first data element in the world
+# - dir: the direction the torches should face. Torches of following lines will be placed behind, torches from the same line to the right. Can be 'north', 'east', 'south' or 'west'
+# - height: Split output into multiple commands setting no more than 'height' blocks at once. 
 # PROGRAM:
 # - Each line in the argument equals one data line (address) in the ROM
 # - Each char equals to one bit

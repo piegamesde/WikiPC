@@ -14,12 +14,3 @@ TODO
 6 >=
 7 <=
 
-Registerzuweisung:
-R7: B
-R6: A
-R5: E
-R4: i
-R3: 1
-R2: T
-R1: TMP1
-R0: TMP0
